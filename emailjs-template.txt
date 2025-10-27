@@ -1,0 +1,12 @@
+Subject: New message from {{user_name}} via Portfolio
+
+A message from {{user_name}} has been received. Respond at your earliest convenience.
+
+Name: {{user_name}}
+Email: {{user_email}}
+
+Message:
+{{message}}
+
+---
+This message was sent via the portfolio contact form (EmailJS).

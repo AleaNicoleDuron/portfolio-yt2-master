@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components';
-import { GiCandleFlame } from "react-icons/gi";
+
 
 const Header = () => {
     const [bar, setBar] = useState(false);
@@ -8,7 +8,7 @@ const Header = () => {
     <Container bar={bar}>
         <Logo>
             
-            <h1>Portfolio</h1>
+            <h1>Alea Nicole</h1>
         </Logo>
         <Nav bar={bar}>
             <span><a href="#home">Home</a></span>
